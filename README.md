@@ -334,10 +334,10 @@ matplotlib
 | No | Nama | NIM |
 |---|---|---|
 | 1 | Tiara Balqis | 250810701100074 |
-| 2 | Mirza Nur Akhyar | 250810701100087 |
-| 3 | T Haikal Saputra | 2508107011000-- |
+| 2 | Annisa Fadhilah | 250810701100086 |
+| 3 | Mirza Nur Akhyar | 250810701100087 |
 | 4 | M. Hafidh Farras | 250810701100098 |
-| 5 | Annisa Fadhilah | 2508107011000-- |
+| 5 | T Haikal Saputra | 250810701100112 |
 
 **Metode yang dikerjakan:** Newton-Raphson
 
